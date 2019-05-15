@@ -1,0 +1,24 @@
+{
+  "name": "mdev1001-8may",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiredgrafix/MDEV1001-8May.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiredgrafix/MDEV1001-8May/issues"
+  },
+  "homepage": "https://github.com/wiredgrafix/MDEV1001-8May#readme"
+}
